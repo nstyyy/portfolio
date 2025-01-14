@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e8ed117b.css",
+    "main.js": "/portfolio/static/js/main.2e760e38.js",
+    "static/media/Me.png": "/portfolio/static/media/Me.28eb1c45be967b0e0b98.png",
+    "static/media/Atelier.png": "/portfolio/static/media/Atelier.91109f5b46b3d146ff61.png",
+    "static/media/NatanaelBurgaud.pdf": "/portfolio/static/media/NatanaelBurgaud.6bc1b98890750469a08e.pdf",
+    "static/media/Todolist.png": "/portfolio/static/media/Todolist.ad1b0cb1357daae5912e.png",
+    "static/media/LaboApp.png": "/portfolio/static/media/LaboApp.8ca7f78182503e487924.png",
+    "static/media/Fivem.png": "/portfolio/static/media/Fivem.3ce32516bc576472fb6a.png",
+    "static/media/Flutter.png": "/portfolio/static/media/Flutter.99f7254fad05980109bc.png",
+    "static/media/discordjs.png": "/portfolio/static/media/discordjs.b6455f76c8115c12259b.png",
+    "index.html": "/portfolio/index.html",
+    "main.e8ed117b.css.map": "/portfolio/static/css/main.e8ed117b.css.map",
+    "main.2e760e38.js.map": "/portfolio/static/js/main.2e760e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ed117b.css",
+    "static/js/main.2e760e38.js"
+  ]
+}
